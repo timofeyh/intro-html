@@ -41,7 +41,7 @@ h1 {
 
 img {
     grid-row-start: 2;
-    grid-column-start: 2;
+    grid-column-start: 1;
     max-width: 200px;
     max-height: 200px;
     border-radius: 10px;
@@ -49,10 +49,10 @@ img {
     margin: 50px;
 }
 
-ol {
+ul {
     list-style-type: none;
     grid-row-start: 2;
-    grid-column-start: 1;
+    grid-column-start: 2;
     width: 200px;
     font-size: 14pt;
 } 
