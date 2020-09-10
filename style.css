@@ -7,7 +7,7 @@ body {
     padding: 100px;
     font-family: 'Open Sans', sans-serif;
     color: #000;
-    display: block;
+    display: grid;
     align-items: center;
     grid-template-columns: 300px auto;
     background-repeat: no-repeat;
@@ -41,7 +41,7 @@ h1 {
 
 img {
     grid-row-start: 2;
-    grid-column-start: 1;
+    grid-column-start: 2;
     max-width: 200px;
     max-height: 200px;
     border-radius: 10px;
