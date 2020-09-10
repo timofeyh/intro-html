@@ -52,7 +52,7 @@ img {
 ul {
     list-style-type: none;
     grid-row-start: 2;
-    grid-column-start: 2;
+    grid-column-start: 1;
     width: 200px;
     font-size: 14pt;
 } 
